@@ -1,0 +1,119 @@
+
+		//////////////////////////////
+		////////武器音效///////////
+
+
+//武器
+"Inventory.Open" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[打开背包]"
+"Inventory.Close" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[拉上背包]"
+
+"WeaponMinigun.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[加特林开火！]"
+
+"WeaponAR2.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[AR2 开火！]"
+"WeaponAR2.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起 AR2]"
+"WeaponAR2.AltCharge" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[AR2 充能]"
+"WeaponAR2.AltFire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[AR2 发射能量球]"
+"WeaponAR2.ReloadRotate" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[AR2 装填弹药]"
+
+"WeaponMP5.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[MP5 开火！]"
+"WeaponMP5.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[MP5 装填弹药]"
+"WeaponMP5.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起 MP5]"
+
+"Weapon_PainKillers.Use" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[使用止痛药]"
+"WeaponPainkillers.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起止痛药]"
+
+"WeaponM9.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[手枪开火！]"
+"WeaponM9.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起手枪]"
+"WeaponM9.StartReload" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[手枪装填弹药]"
+
+"WeaponM16.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[M16 开火！]"
+"WeaponM16.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[M16 装填弹药]"
+"WeaponM16.M203ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[榴弹发射器装填弹药]"
+"WeaponM16.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起 M16]"
+"WeaponM16.FireM203" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[发射榴弹]"
+
+"WeaponFlare.Throw" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[投掷信号弹]"
+"WeaponFlare.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起信号弹]"
+"WeaponFlare.BurnLoop" "<sfx><norepeat:15><playerclr:255,176,0:255,255,255>[信号弹燃烧]"
+
+"WeaponClaymore.Plant" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[放置阔剑地雷]"
+"WeaponClaymore.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起阔剑地雷]"
+
+"Weapon870.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[霰弹枪开火！]"
+"Weapon870.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起霰弹枪]"
+"Weapon870.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[霰弹枪装填弹药]"
+
+"WeaponAWP.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起狙击枪]"
+"WeaponAWP.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[狙击枪装填弹药]"
+"WeaponAWP.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[狙击枪开火！]"
+
+"Weapon50CAL.Shot" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[.50 重机枪射击！]"
+
+"SynthGrenade.Tick" "<sfx><norepeat:5><clr:255,255,255>[手榴弹滴答声]"
+
+"WeaponRevolver.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[左轮开火！]"
+"WeaponRevolver.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[左轮装填弹药]"
+"WeaponRevolver.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起左轮]"
+
+"Weapon1911.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[手枪装填弹药]"
+"Weapon1911.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[手枪开火！]"
+"Weapon1911.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起手枪]"
+
+"WeaponHL2Pistol.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起手枪]"
+"WeaponHL2Pistol.Reload" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[手枪装填弹药]"
+"WeaponHL2Pistol.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[手枪开火！]"
+"WeaponHL2Pistol.FireNPC" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[手枪开火！]"
+
+"WeaponDoubleBarrel.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[猎枪装填弹药]"
+"WeaponDoubleBarrel.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[猎枪单管射击！]"
+"WeaponDoubleBarrel.FireDouble" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[猎枪双管齐发！]"
+"WeaponDoubleBarrel.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起猎枪]"
+
+"Weapon_SMG1.Single" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[SMG 射击！]"
+"Weapon_SMG1.NPC_Single" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[SMG 射击！]"
+
+"WeaponMolotov.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起燃烧瓶]"
+"WeaponMolotov.Explode" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[燃烧瓶爆炸]"
+"WeaponMolotov.Throw" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[投掷燃烧瓶]"
+
+"WeaponTMP.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[TMP 射击！]"
+"WeaponTMP.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[TMP 装填弹药]"
+
+"WeaponSIG552.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起 SG552]"
+"WeaponSIG552.Single" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[SG552 射击！]"
+"WeaponSIG552.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[SG552 装填弹药]"
+
+"WeaponSkorpion.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起 SMG]"
+"WeaponSkorpion.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[SMG 射击！]"
+
+"WeaponM67.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起手雷]"
+"WeaponM67.Throw" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[投掷手雷]"
+"WeaponM67.Toss" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[抛出手雷]"
+
+"WeaponNVG.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起夜视仪]"
+"WeaponNVG.Equip" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[装备夜视仪]"
+"WeaponNVG.Dequip" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[摘掉夜视仪]"
+
+"WeaponBinoculars.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起望远镜]"
+
+"WeaponK98.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起 K98]"
+"WeaponK98.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[K98 装填弹药]"
+"WeaponK98.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[K98 射击！]"
+
+"WeaponGrenade.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起手雷]"
+"WeaponGrenade.Throw" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[投掷手雷]"
+"WeaponGrenade.Toss" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[抛出手雷]"
+
+"WeaponAK47.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起 AK47]"
+"WeaponAK47.Fire" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[AK47 开火！]"
+"WeaponAK47.ReloadStart" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[AK47 装填弹药]"
+
+"WeaponKnife.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起匕首]"
+"WeaponKnife.Slash" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[挥舞匕首]"
+
+"WeaponMachete.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起砍刀]"
+"WeaponMachete.Slash" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[挥动砍刀]"
+
+"WeaponWrench.Holster" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[收起扳手]"
+"WeaponWrench.Swing" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[挥动扳手]"
+"WeaponWrench.HitFlesh" "<sfx><norepeat:5><playerclr:255,176,0:255,255,255>[扳手重击！]"

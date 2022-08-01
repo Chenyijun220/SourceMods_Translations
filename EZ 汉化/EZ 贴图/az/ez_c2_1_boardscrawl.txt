@@ -1,0 +1,5 @@
+Do not touch!
+Laszlo is out of town. These controls are secret!
+Laz wrote the integration algorithm.
+This keeps the turrets on our side!
+City 10 is wired up. change made here affect all turrets within range of our transmitter.

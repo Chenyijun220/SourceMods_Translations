@@ -1,0 +1,129 @@
+//Adrian: This file contains the credits info for both the Intro and outro.
+"credits.txt"
+{
+
+//========================================================
+//These are the names used in the intro (Chap01 Cave)
+//========================================================
+"IntroCreditsNames"
+{
+	"计 算 术"	"CreditsTextTitleLogistique"
+	"一款单人战役模组。"    "CreditsTextLogistique"
+	" "	"CreditsText"
+	"制作者"	"CreditsTextLogistique"
+	"E L S E W A R E   E X P E R I E N C E"	"CreditsTextTitleLogistique"
+	" "	"CreditsText"
+	"核心团队"	"CreditsTextLogistique"
+	"Benoit Dereau"    "CreditsTextLogistique"
+	"Mael Vignaux"   "CreditsTextLogistique"
+}
+
+"CreditsParams"
+{
+	"fadeintime"	"2.0"
+	"fadeouttime"	"2.0"
+	"fadeholdtime"	"4.0"
+	"nextfadetime"	"0.0"
+	"pausebetweenwaves" "4.0"
+	"logotime" "1.0"
+	"posx"	"96"
+	"posy"	"360"
+
+	"color" "255 255 255 128"
+
+//Outro Parameters
+	"scrolltime" "60"
+	"separation"  "10"
+}
+
+//========================================================
+//These are the names used in the outro (Chap04)
+//========================================================
+"OutroCreditsNames"
+{
+	"计 算 术 - 第 1 部 分"	"CreditsOutroLogosLogistique"
+	" "	"CreditsOutroText"
+	"一款单人模组"	"CreditsOutroTextSmallLogistique"
+	"由 ELSEWARE-EXPERIENCE 倾情奉献"	"CreditsOutroTextLogistique"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"查看我们的作品：elseware-experience.com"	"CreditsOutroTextSmallLogistique"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"核心团队"   "CreditsOutroTextSmallLogistique"
+	"Mael Vignaux"    "CreditsOutroText"
+	"Benoit Dereau"    "CreditsOutroText"
+	" "   "CreditsOutroText"
+	" "   "CreditsOutroText"
+	"关卡设计"    "CreditsOutroTextSmallLogistique"
+	"Benoit Dereau"    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"音乐创作"    "CreditsOutroTextSmallLogistique"
+	"Mael Vignaux"    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"游戏代码"   "CreditsOutroTextSmallLogistique"
+	"Ian Brun"    "CreditsOutroText"
+	"Benjamin Ferron"    "CreditsOutroText"
+	" "   "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"附加声音设计"    "CreditsOutroTextSmallLogistique"
+	"Mael Vignaux"    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"动画"    "CreditsOutroTextSmallLogistique"
+	"Peardon Peace"    "CreditsOutroText"
+	"Benjamin Ferron"    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"配音演员"     "CreditsOutroTextSmallLogistique"
+	"Adam / Jordan Shone-Andrews"    "CreditsOutroText"
+	"Anna / Rachel Pefferkorn"    "CreditsOutroText"
+	"Boat Rebel / Ken Clark"    "CreditsOutroText"
+	"Radio & Roof Rebel / CubicTuxedo"    "CreditsOutroText"
+	" "   "CreditsOutroText"
+	" "   "CreditsOutroText"
+	"翻译人员"   "CreditsOutroText"
+	"ZippyS2 / Vietnamese Localization"   "CreditsOutroText"
+	"IBRS / Chinese (Simplified) Localization"   "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"公共资源"    "CreditsOutroTextSmallLogistique"
+	"Damae Inc. 的 CZ52 手枪。"    "CreditsOutroText"
+	"https://gamebanana.com/studios/655"    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"MP7 Machinegun by no reference"    "CreditsOutroText"
+	"No link"    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"HD Model Texture Pack by TheManClaw"    "CreditsOutroText"
+	"https://gamebanana.com/members/185164"    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"C17 Zombie Texture by TheManClaw"    "CreditsOutroText"
+	"https://gamebanana.com/members/185164"    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"游戏测试者"     "CreditsOutroTextSmallLogistique"
+	"Chymzz"    "CreditsOutroText"
+	"Dayik"    "CreditsOutroText"
+	"Wraybies"   "CreditsOutroText"
+	"Skacky"   "CreditsOutroText"
+	"Groberg"   "CreditsOutroText"
+	"Jordan Shone-Andrews"   "CreditsOutroText"
+	"CubicTuxedo"   "CreditsOutroText"
+	" "    "CreditsOutroText"
+	" "    "CreditsOutroText"
+	"www.benoitdereau.com"   "CreditsOutroText"
+	"www.maelvignaux.com "    "CreditsOutroText"
+	" "   "CreditsOutroText"
+	" "   "CreditsOutroText"
+	"字体"   "CreditsOutroTextSmallLogistique"
+	"Futurist fixed-width / WIS"    "CreditsOutroText"
+
+	"感谢你游玩《计算术：第 1 部分》。"    "CreditsOutroTextSmallLogistique"
+
+
+
+}
+
+
+
+}
