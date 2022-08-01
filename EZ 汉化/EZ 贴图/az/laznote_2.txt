@@ -1,0 +1,6 @@
+CMB integration cipher:
+Only works on offline units. If unit is connected to Overwatch, it gets overwritten constantly.
+Every 1.10 to 1.15 CMB units, excluding loss...
+Burst extra packet data to compensate for CMB intrastracture (drops a lots of data)
+2121219 - scope limit DO NOT EXCEED.
+The turrets are now wirelessly controlled by us. Cipher changes every two weeks give or take. DON't FORGET TO CHANGE IT.
