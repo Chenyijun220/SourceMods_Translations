@@ -1,0 +1,75 @@
+"lang" 
+{ 
+"Language" "schinese" 
+"Tokens" 
+{ 
+
+"wilson_chronicles_Chapter1_Title"		"又是新的一天"
+"wilson_chronicles_Chapter2_Title"		"逃离"
+"wilson_chronicles_Chapter3_Title"		"医疗中心"
+"wilson_chronicles_Chapter4_Title"		"出乎意料的结果"
+"wilson_chronicles_Chapter5_Title"		"十字路口"
+"wilson_chronicles_Chapter6_Title"		"地表"
+"wilson_chronicles_Chapter7_Title"		"最后的出路"
+
+"WILSON CHRONICLES" "威尔逊编年史"
+"c1txt1" "黑山基地研究所\n美国，新墨西哥州\n200* 年 5 月 16 日，上午 8:42"
+"c1txt2" "主角：\n达伦.威尔逊\n男，32 岁"
+"c1txt3" "军衔：\n上校"
+"c1txt4" "部门：\n军事研究所"
+"c1txt5" "执行部门：\n五角大楼"
+"c1txt6" "委派等级：\n5 级"
+"Chapter I" "第一章 - “又是新的一天”"
+"Chapter II" "第二章 - “逃离”"
+"Chapter III" "第三章 - “医疗中心”"
+"Chapter IV" "第四章 - “出乎意料的结果”"
+"Chapter V" "第五章 - “十字路口”"
+"Chapter VI" "第六章 - “地表”"
+"Chapter VII" "第七章 - “最后的出路”"
+
+"hl2_AmmoFull"			"已满"
+
+"HL2_GameOver_Object"			"任务：终止\n目标：威尔逊\n原因：未能保护任务关键资源"
+
+"HL2_GameOver_Ally"			"任务：终止\n目标：威尔逊\n原因：未能保护任务关键人员"
+
+"HL2_GameOver_Timer"			"任务：终止\n目标：威尔逊\n原因：无法阻止时间关键的结果"
+
+"HL2_GameOver_Stuck"			"任务：终止\n目标：威尔逊\n原因：判断力极其低下"
+
+"HL2_GravityGun"	"重力枪"
+"HL2_Crowbar"		"撬棍"
+"HL2_GLOCK"		"格洛克"
+"HL2_BERETTA"		"贝雷塔"
+"HL2_357Handgun"	"357"
+"HL2_MP5"		"MP5"
+"HL2_Shotgun"		"SPAS 12"
+"HL2_M4M203"	        "M4M203"
+"HL2_Crossbow"		"十字弩"
+"HL2_Bugbait"		"虫饵"
+"HL2_Grenade"		"手雷"
+"HL2_RPG"		"RPG"
+"HL2_HAND"               "拳头"
+"HL2_AXE"                "斧头"
+"HL2_G36C"               "G36C"
+"HL2_AK47"               "AK47"
+"HL2_TAUCANNON"		"高斯枪"
+"HL2_EGON"		"胶子炮"
+"HL2_HornetGun"		"蜂巢枪"
+"HL2_Snark"		"蛇鲨"
+
+"HL2_Saved"		"已保存"
+
+"WILSON CHRONICLES" "威尔逊编年史"
+
+"wilson_chronicles_Hud_HEALTH"		"+"
+"wilson_chronicles_Hud_AMMO"		"$"
+"wilson_chronicles_Hud_ALT"			"£"
+"wilson_chronicles_Hud_SUIT"		"*"
+"wilson_chronicles_Hud_AUX_POWER"		""
+"wilson_chronicles_Hud_OXYGEN"		""
+"wilson_chronicles_Hud_FLASHLIGHT"		"FLASHLIGHT"
+"wilson_chronicles_Hud_SPRINT"		""
+"wilson_chronicles_Hud_SOFT"		"="
+} 
+}
