@@ -1,0 +1,188 @@
+"lang"
+{
+
+	"Language" "schinese"
+	"Tokens"
+	{
+		// Generic strings
+		"Dialog_Confirm" "确定"
+		"Dialog_Cancel" "取消"
+	                "Button_Next" "下一个"
+		"Button_Previous" "上一个"
+		"Button_Back" "返回"
+	
+		// Main Menu top bar
+		"MenuOnline" "在线"
+		"MenuInGame" "游戏中"
+		"MenuOffline" "离线"
+		"MenuSettings" "设置"
+		"MenuWorkshop" "创意工坊"
+		"MenuQuit" "离开"
+		"MenuBonusSwarmKeeper_Tooltip" "开始额外的 Swarm Keeper 地图！"
+		"Menu_TooltipOpenProfile" "打开个人信息"
+		
+		// Online menu
+		"MP_HeadLine" "玩多人拉姆达战争"
+		"MP_FindOnlineGame" "寻找在线游戏"
+		"MP_FindOnlineGame_Desc" "加入一个在线游戏大厅。"
+		"MP_CreateGame" "创建游戏"
+		"MP_CreateGame_Desc" "创建一个新的公开游戏大厅。"
+		"MP_DedicatedServer" "专用服务器浏览器"
+		
+		// In Game Menu
+		"IG_HeadLine" "你正在进行游戏"
+		"IG_ReturnToGame" "返回游戏"
+		"IG_ReturnToGame_Desc" "返回当前游戏。"
+		"IG_Forfeit" "放弃"
+		"IG_Forfeit_Desc" "放弃你的游戏并且成为一名观察者。"
+		"IG_Disconnect" "放弃并且断开连接"
+		"IG_Disconnect_Desc" "放弃并且从游戏中断开连接。"
+		"IG_DisconnectHost_Desc" "断开与游戏的连接。警告：你是服务器主机，这将断开游戏中所有人的连接并结束游戏。"
+		"IG_DisconnectHostConfirm" "确定要断开连接吗？你是游戏主机，但仍有玩家正在进行游戏。断开连接将结束所有人的游戏。"
+		"IG_DisconnectOffline_Desc" "结束游戏。"
+		
+		// Offline Menu
+		"SP_HeadLine" "玩单人拉姆达战争"
+		"SP_Missions" "单人任务"
+		"SP_Missions_Desc" "游玩一个单人自定义拉姆达战争任务。"
+		"SP_AISkirmish" "AI 战争"
+		"SP_AISkirmish_Desc" "以离线模式在多人地图上对抗AI敌人。"
+		"SP_Tutorial" "教程"
+		"SP_Tutorial_Desc" "一个简短的教程性任务，为没有玩过拉姆达战争或实时战略游戏的人准备。"
+		
+		"Mission_Desc" "描述："
+		"Mission_Launch" "开始任务"
+		"Mission_Easy" "简单"
+		"Mission_Normal" "普通"
+		"Mission_Hard" "困难"
+		
+		// Load/save panel
+		"LG_LoadMenu" "载入保存的游戏"
+		"LG_LoadMenu_Desc" "载入保存的游戏。"
+		"LG_SaveMenu" "保存游戏"
+		"LG_SaveMenu_Desc" "保存当前游戏。"
+		"LG_Title" "载入游戏"
+		"LG_Load" "载入"
+		"LG_Save" "保存"
+		
+		// Chat
+		"Chat_Global" "全球聊天"
+		"Chat_PlayersOnline" "名玩家在线"
+		"Chat_WelcomeMsg" "欢迎来到拉姆达战争！ #br 不要把你的密码告诉任何人。"
+		"Chat_UserEntered" "用户已加入"
+		"Chat_UserLeft" "用户已离开"
+		"Chat_UserKicked" "用户已踢出"
+		"Chat_Send" "发送"
+		"Chat_OpenProfile"  "个人信息"
+		"Chat_UnmutePlayer"  "取消静音"
+		"Chat_MutePlayer"  "静音"
+		
+		// Settings
+		"Settings_Headline" "设置和选项"
+		"Settings_Video" "视频设置"
+		"Settings_Video_Desc" "更改分辨率和其他基础的设置。"
+		"Settings_Brightness" "亮度"
+		"Settings_Brightness_Desc" "更改游戏亮度。"
+		"Settings_Sound" "声音设置"
+		"Settings_Sound_Desc" "调整游戏音频设置。"
+		"Settings_KeyboardMouse" "键盘和鼠标"
+		"Settings_KeyboardMouse_Desc" "配置鼠标和键盘设置。"
+		"Settings_Multiplayer" "多人游戏设置"
+		"Settings_Multiplayer_Desc" "更改游戏中选项。"
+		
+		// Online games
+		"OG_NoLobbies" "无可用游戏大厅"
+		"OG_OneLobbyFound" "大厅已找到"
+		"OG_LobbiesFound" "大厅已找到"
+		"OG_OneGameInProgress" "进行中游戏"
+		"OG_MultipleGamesInProgress" "进行中游戏"
+		"OG_Player" "玩家"
+		"OG_Players" "玩家"
+		"OG_Join" "加入"
+		"OG_BackToMenu" "返回菜单"
+		"OG_CreateLobby" "创建大厅"
+		"OG_RefreshList" "刷新列表"
+
+                                // Match results
+		"MA_MatchHistory" "比赛记录"
+		"MA_Scores" "分数"
+		"MA_Units" "单位"
+		"MA_Graphs" "图像"
+		"MA_Fetching" "Fetching..."
+
+		// Gamelobby
+		"GL_WelcomeGameLobby" "已加入游戏大厅"
+		"GL_Public" "公开"
+		"GL_FriendsOnly" "仅限好友"
+		"GL_Private" "私人"
+		
+		"GL_Kick" "踢出"
+		"GL_Kicked" "你已被踢出大厅！"
+		"GL_ConfirmKickTitle" "踢出玩家"
+		"GL_ConfirmKick" "你确定要踢出这名玩家吗？此玩家将无法再次加入此大厅。"
+		
+		"GL_VersionMismatch" "大厅主的游戏版本和你的游戏版本不匹配。确保你和大厅主都已更新至最新版且未参加任何测试版。"
+		
+		"GL_Status" "状态"
+		"GL_StatusCreating" "正在创建 Steam 服务器..."
+		"GL_StatusJoining" "正在加入 Steam 服务器..."
+		"GL_StatusFindingServer" "正在寻找拉姆达战争服务器..."
+		"GL_StatusStartingLocal" "正在启动本地服务器..."
+		"GL_StatusHostStartingLocal" "无法找到专用服务器。大厅主正在开始本地服务器..."
+		"GL_StatusInProgress" "游戏进行中。"
+		"GL_StatusGameEnded" "游戏已结束。你可以离开大厅。"
+		"GL_StatusGameEndedContinue" "游戏已结束。你可以离开大厅或者开始新的游戏。"
+		"GL_StatusFailedFindServer" "寻找专用服务器失败。"
+		"GL_StatusFailedFindReservedServer" "未能找到已知服务器，请检查服务器密码。清空密码栏来寻找其他可用服务器。"
+		"GL_SpectatorsLabel" "观察者："
+		"GL_LeaveLobby" "离开游戏"
+		"GL_Spectate" "观察"
+		"GL_Invite" "邀请"
+		"GL_Launch" "开始"
+		"GL_Ready" "准备"
+		"GL_Unready" "未准备"
+		"GL_JoinGame" "加入游戏"
+		"GL_Scores" "分数"
+		
+		"GL_TakeSlot" "选择位置"
+		"GL_AddCPU" "添加电脑玩家"
+		"GL_RemoveCPU" "移除电脑玩家"
+		
+		"GL_GameSettings" "游戏设置"
+		"GL_GameMode" "游戏模式"
+		"GL_Map" "地图"
+		"GL_Team" "队伍"
+		"GL_Teams" "队伍"
+		"GL_LobbyChat" "大厅聊天室"
+		"GL_FreeForAll" "自由混战"
+		"GL_MMPassword" "服务器密码"
+		
+		// Steam errors
+		"Steam_NotAvailable" "Steam 客户端遗失或已过期。尝试重启 Steam 来解决问题。"
+		"Steam_Unknown" "未知 Steam 错误"
+		"Steam_IOFailure" "IO 错误"
+		"Steam_NoConnection" "无法连接至 Steam 服务器"
+		"Steam_Timeout" "Steam 服务器未响应"
+		"Steam_Fail" "Steam 服务器出现未知内部错误"
+		"Steam_AccessDenied" "拒绝访问"
+		"Steam_LimitExceeded" "超出 Steam 大厅限制"
+		
+		// ================================================================
+		// Viewport/ingame translation strings follow here
+		// ================================================================
+		// Player statuses panel
+		"PlayerStatus_Players" "玩家"
+		
+		// Waiting for players panel, shown before the start of a match
+		"WFP_LobbyName" "大厅名"
+		"WFP_WaitText" "等待玩家..."
+		
+		// Overrun HUD
+		"Overrun_Ready" "准备"
+		
+		// Chat
+		"Chat_SendLineText" "聊天"
+		"Chat_SendButton" "发送"
+		"Chat_SendTeamButton" "发送到队伍"
+	}
+}

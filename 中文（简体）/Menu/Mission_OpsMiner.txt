@@ -1,0 +1,45 @@
+﻿;>OPERATION<;
+;特殊行动;
+
+;>MINER BUSTER<;
+;清理矿井;
+
+;>GATE FACTORY ENTRANCE<;
+;工厂大门;
+
+;>OPERATION<;
+;特殊行动;
+
+;>ASSAULT AUTOMATON FACTORY<;
+;进攻机器工厂;
+
+;>OpsMinerBuster<;
+;特殊行动：清理矿井;
+
+;>OpsMiner_BossGate<;
+;工厂大门;
+
+;>OpsAssaultAutomaton<;
+;进攻机器工厂;
+
+;>HackRcDispenser<;
+;骇入自爆小车发射器;
+
+;>DestroyNanoCrystal<;
+;摧毁纳米水晶;
+
+;>HackGateConsole<;
+;骇入大门控制台;
+
+;>DestroyAllAutomatons<;
+;摧毁所有的机器人;
+
+;>ContinueHacking<;
+;继续骇入;
+
+;>Hack<;
+;骇入;
+
+;>hacking<;
+;正在骇入...;
+

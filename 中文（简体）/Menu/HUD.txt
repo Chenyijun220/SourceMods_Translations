@@ -1,0 +1,27 @@
+﻿;>InstantHeal<;
+;立刻治疗（-1 纳米）;
+
+;>NoAmmo<;
+;没有弹药;
+
+;>Reload<;
+;装填弹药;
+
+;>HealPartner<;
+;按住治疗（-4 纳米）;
+
+;>HealingPartner<;
+;正在治疗...;
+
+;>HealSelf<;
+;按住治疗自己（-1 纳米）;
+
+;>Recovering<;
+;正在治疗...;
+
+;>recovering<;
+;...;
+
+;>MissionFailed<;
+;任务失败;
+

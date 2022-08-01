@@ -1,0 +1,179 @@
+﻿;>GLOCK19<;
+;格洛克 19;
+
+;>MP5K<;
+;MP5K;
+
+;>SPAS-12<;
+;SPAS-12;
+
+;>FAMAS<;
+;法玛斯;
+
+;>P90<;
+;P90;
+
+;>MSG-90<;
+;MSG-90;
+
+;>F2000<;
+;F2000;
+
+;>AA-12<;
+;AA-12;
+
+;>PDR<;
+;PDR;
+
+;>AWM<;
+;AWM;
+
+;>M240B LMG<;
+;M240B 轻机枪;
+
+;>BAD-AK<;
+;BAD-AK;
+
+;>Beretta 50-Cal<;
+;贝瑞塔 .50 口径;
+
+;>HK 11<;
+;HK 11;
+
+;>HK G36C<;
+;HK G36C;
+
+;>Keris V-Tor<;
+;凯里斯 V-Tor;
+
+;>Milkor MKI<;
+;米尔克尔 MKI;
+
+;>GLOCK19Desc<;
+;格洛克 19
+半自动武器。低伤害;
+
+;>MP5KDesc<;
+;猎手-K MP5
+低伤害，换弹时间长的冲锋枪。;
+
+;>SPAS-12Desc<;
+;SPAS
+泵动式霰弹枪。攻击范围广;
+
+;>FAMASDesc<;
+;法玛斯
+用途较广的标准突击步枪;
+
+;>P90Desc<;
+;LN P90
+高射速，中等伤害的冲锋枪;
+
+;>MSG-90Desc<;
+;猎手-K MSG90
+半自动高伤害精准步枪;
+
+;>F2000Desc<;
+;LN F2000
+高伤害突击步枪;
+
+;>AA-12Desc<;
+;突击手-A 12
+拥有 20 发弹鼓的高射速霰弹枪;
+
+;>PDRDesc<;
+;Magpul PDR
+高射速的个人防卫武器;
+
+;>AWMDesc<;
+;精准 L115A3
+超高伤害但低射速;
+
+;>M240B LMGDesc<;
+;LN M240B 轻机枪
+高伤害，射击距离远，但是后坐力高;
+
+;>BAD-AKDesc<;
+;Bad-Ak 9000S
+高伤害左轮手枪;
+
+;>Beretta 50-CalDesc<;
+;贝瑞塔 .50 口径
+M85 型反器材狙击枪;
+
+;>HK 11Desc<;
+;猎人杀手 - 11
+高射速轻型机枪;
+
+;>HK G36CDesc<;
+;猎人杀手 - G36C
+标准幽灵冲锋枪;
+
+;>Keris V-TorDesc<;
+;凯里斯 V-Tor
+标准幽灵冲锋枪;
+
+;>Milkor MKIDesc<;
+;米尔克尔 MK-I
+装有爆炸弹药的榴弹发射器;
+
+;>Pistol Clip<;
+;手枪弹夹;
+
+;>Smg Mag<;
+;冲锋枪弹夹;
+
+;>Magnum Clip<;
+;马格南弹夹;
+
+;>Rifle Magazine<;
+;步枪弹匣;
+
+;>Sniper Clip<;
+;狙击枪弹夹;
+
+;>Shotgun Buckshot<;
+;霰弹枪弹药;
+
+;>Hmg Magazine<;
+;重机枪弹夹;
+
+;>Grenade<;
+;手雷;
+
+;>Rocket<;
+;火箭弹;
+
+;>Grenade 40MM<;
+;40 毫米榴弹;
+
+;>Take<;
+;拾取;
+
+;>Taken<;
+;已拾取;
+
+;>Ammo Full<;
+;弹药已满;
+
+;>Inv. Full<;
+;背包已满;
+
+;>Take Gold<;
+;拾取金币;
+
+;>Take Nanosys<;
+;拾取纳米;
+
+;>open<;
+;打开;
+
+;>Take Nano Plugin<;
+;拾取纳米插件;
+
+;>Ammo<;
+;弹药;
+
+;>Weapon<;
+;武器;
+

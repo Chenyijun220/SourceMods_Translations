@@ -1,0 +1,120 @@
+﻿;>controlTitle<;
+;控制;
+
+;>Look<;
+;视角移动;
+
+;>Invert Look |<;
+;垂直视角反转 |;
+
+;>Smooth Look |<;
+;平滑视角 |;
+
+;>Toggle Aim |<;
+;切换瞄准 |;
+
+;>Toggle Run |<;
+;切换奔跑 |;
+
+;>Toggle Crouch |<;
+;切换下蹲 |;
+
+;>Sensitivity |<;
+;灵敏度 |;
+
+;>GamePadMapping<;
+;游戏手柄预设;
+
+;>Looking<;
+;视角;
+
+;>Look Up |<;
+;向上看 |;
+
+;>Look Dn |<;
+;向下看 |;
+
+;>Look Right |<;
+;向右看 |;
+
+;>Look Left |<;
+;向左看 |;
+
+;>Movement<;
+;移动;
+
+;>Move Front |<;
+;向前移动 |;
+
+;>Move Back |<;
+;向后移动 |;
+
+;>Strafe Right |<;
+;向右移动 |;
+
+;>Strafe Left |<;
+;向左移动 |;
+
+;>Crouching |<;
+;下蹲 |;
+
+;>Toogle Run |<;
+;切换奔跑 |;
+
+;>Rolling |<;
+;翻滚 |;
+
+;>others<;
+;攻击;
+
+;>Shoot |<;
+;射击 |;
+
+;>Melee |<;
+;近战攻击 |;
+
+;>Zoom |<;
+;缩放 / 瞄准 |;
+
+;>Weapon A |<;
+;武器 A |;
+
+;>Weapon B |<;
+;武器 B |;
+
+;>Grenade |<;
+;手雷 |;
+
+;>Reload |<;
+;装填弹药 |;
+
+;>others<;
+;其它;
+
+;>Waypoint<;
+;寻路线 / 扫描 |;
+
+;>Use |<;
+;使用 |;
+
+;>Inventory |<;
+;背包 |;
+
+;>Chat |<;
+;聊天 |;
+
+;>SHeal |<;
+;治疗自己 |;
+
+;>Menu |<;
+;菜单 |;
+
+;>RESET<;
+;重置;
+
+;>AssignKey<;
+;请按任意键设置按钮。按 Esc 键取消。;
+
+;>CView |<;
+;切换视角 |;
+

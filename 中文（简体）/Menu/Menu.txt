@@ -1,0 +1,15 @@
+﻿;>start<;
+;开始;
+
+;>invite<;
+;邀请好友;
+
+;>disconnect<;
+;断开连接;
+
+;>resume<;
+;返回;
+
+;>start<;
+;开始;
+

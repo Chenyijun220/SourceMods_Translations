@@ -1,0 +1,7 @@
+安装步骤：
+1.通过Steam，右键Lambda Wars Beta，按照以下顺序 “属性...-本地文件-浏览本地文件...” 打开游戏目录。
+2.把汉化包的“lambdawars”文件夹放入游戏目录。
+3.安装完毕
+
+使用说明：
+Steam右键Lambda Wars Beta，属性...-常规-设置启动选项... 输入以下指令：“ +lang_override schinese”即可完成安装。

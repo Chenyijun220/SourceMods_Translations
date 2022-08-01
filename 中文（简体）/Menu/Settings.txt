@@ -1,0 +1,87 @@
+﻿;>displayTitle<;
+;显示;
+
+;>resolution<;
+;分辨率;
+
+;>display<;
+;显示器;
+
+;>fullscreen<;
+;全屏 |;
+
+;>fieldofview<;
+;视场 |;
+
+;>apply<;
+;应用;
+
+;>graphicTitle<;
+;图像;
+
+;>quality<;
+;质量;
+
+;>aamode<;
+;抗锯齿模式;
+
+;>aasampling<;
+;抗锯齿采样;
+
+;>colorgrading<;
+;颜色分级 |;
+
+;>bloom<;
+;光晕效果 |;
+
+;>motionblur<;
+;动态模糊 |;
+
+;>vignette<;
+;屏幕黑边 |;
+
+;>ambientocclusion<;
+;环境遮罩 |;
+
+;>depthoffield<;
+;景深 |;
+
+;>showfps<;
+;显示 FPS |;
+
+;>autodetect<;
+;自动检测;
+
+;>soundTitle<;
+;声音;
+
+;>speakermode<;
+;扬声器模式;
+
+;>mastervolume<;
+;主音量 |;
+
+;>musicvolume<;
+;音乐音量 |;
+
+;>language<;
+;语言;
+
+;>textlanguage<;
+;文本的语言;
+
+;>apply<;
+;应用;
+
+;>firsttimerGPU<;
+;图形质量设置为最佳设置！;
+
+;>continue<;
+;继续;
+
+;>HostGone<;
+;房主已断开连接;
+
+;>restart<;
+;重新开始;
+

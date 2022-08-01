@@ -1,0 +1,425 @@
+﻿;>INVENTORIES<;
+;背包;
+
+;>WEAPONS<;
+;武器;
+
+;>SLOTS<;
+;槽位;
+
+;>DnDrop<;
+;请用鼠标拖拽来装备 / 出售 / 丢弃物品;
+
+;>DROP<;
+;丢弃;
+
+;>SELL<;
+;出售;
+
+;>NANOS<;
+;纳米插件;
+
+;>NANOSLOTS<;
+;槽位;
+
+;>DnDropNano<;
+;请用鼠标拖拽来装备 / 出售 / 丢弃物品;
+
+;>SELL<;
+;出售;
+
+;>B_HppCheapHpCapacitor<;
+;破损的生命存储装置;
+
+;>DB_HppCheapHpCapacitor<;
+;生命值提高 2%;
+
+;>L_HppCapacitor<;
+;生命存储装置;
+
+;>DL_HppCapacitor<;
+;生命值提高 10%;
+
+;>M_HppModifiedHpCapacitor<;
+;升级版生命存储装置;
+
+;>DM_HppModifiedHpCapacitor<;
+;生命值提高 25%;
+
+;>H_HppExperimentalHpCapacitor<;
+;测试型生命存储装置;
+
+;>DH_HppExperimentalHpCapacitor<;
+;生命值提高 50%;
+
+;>B_MvpUsedLegEnhancer<;
+;二手腿部外骨骼;
+
+;>DB_MvpUsedLegEnhancer<;
+;被骗了。移动速度降低 10%;
+
+;>L_MvpLegEnhancer<;
+;腿部外骨骼;
+
+;>DL_MvpLegEnhancer<;
+;移动速度提高 8%;
+
+;>M_MvpAthleteLegEnhancer<;
+;运动级腿部外骨骼;
+
+;>DM_MvpAthleteLegEnhancer<;
+;移动速度提高 16%;
+
+;>H_MvpSonic<;
+;音速;
+
+;>DH_MvpSonic<;
+;移动速度提高 25%;
+
+;>B_BopTrashHitImmunity<;
+;损坏的受击免疫装置;
+
+;>DB_BopTrashHitImmunity<;
+;啥用没有。你被骗了;
+
+;>L_BopConcussionImmunity<;
+;脑震荡免疫装置;
+
+;>DL_BopConcussionImmunity<;
+;免疫轻微的近战攻击和绊倒。;
+
+;>M_BopBlastImmunity<;
+;爆炸免疫;
+
+;>DM_BopBlastImmunity<;
+;免疫轻微的近战攻击和绊倒。受到爆炸/猛烈撞击时只会轻微的绊倒。;
+
+;>H_BopKineticsAbsorber<;
+;纳米动力吸附剂;
+
+;>DH_BopKineticsAbsorber<;
+;对爆炸/绊倒/撞击效果免疫。;
+
+;>B_GrpLowGHolder<;
+;初级手雷腰带;
+
+;>DB_GrpLowGHolder<;
+;被骗了。手雷持有上限减少 1;
+
+;>L_GrpMediumGHolder<;
+;中级手雷腰带;
+
+;>DL_GrpMediumGHolder<;
+;手雷持有上限增加 4;
+
+;>M_GrpLargeGHolder<;
+;高级手雷腰带;
+
+;>DM_GrpLargeGHolder<;
+;手雷持有上限增加 6;
+
+;>H_GrpXLGHolder<;
+;特级手雷腰带;
+
+;>DH_GrpXLGHolder<;
+;手雷持有上限增加 10;
+
+;>B_AwwNano<;
+;脆皮纳米;
+
+;>DB_AwwNano<;
+;被骗了。受到的伤害增加 10%;
+
+;>L_DrpHardenNano<;
+;硬化纳米;
+
+;>DL_DrpHardenNano<;
+;抵抗 2% 的伤害;
+
+;>M_DrpDragonScaleNano<;
+;龙级纳米;
+
+;>DM_DrpDragonScaleNano<;
+;抵抗 4% 的伤害;
+
+;>H_DrpIronCurtainNano<;
+;铁幕纳米;
+
+;>DH_DrpIronCurtainNano<;
+;抵抗 10% 的伤害;
+
+;>B_MiniPolar<;
+;迷你磁铁;
+
+;>DB_MiniPolar<;
+;减少吸引物品的范围;
+
+;>L_Magnetiser<;
+;导磁体;
+
+;>DL_Magnetiser<;
+;将吸引物品的范围进一步扩大到 8 倍。
+不可叠加;
+
+;>M_Vortex<;
+;涡流;
+
+;>DM_Vortex<;
+;将吸引物品的范围进一步扩大到 13 倍。
+不可叠加;
+
+;>H_BlackHole<;
+;黑洞;
+
+;>DH_BlackHole<;
+;将吸引物品的范围进一步扩大到 20 倍。
+不可叠加;
+
+;>B_Virus<;
+;病毒;
+
+;>DB_Virus<;
+;攻击敌人时有 10% 的几率丢失你的纳米;
+
+;>L_NanoExtractor<;
+;纳米提取器;
+
+;>DL_NanoExtractor<;
+;受到伤害的敌人有几率掉落 1 个纳米;
+
+;>M_NanoSucker<;
+;纳米吸盘;
+
+;>DM_NanoSucker<;
+;受到伤害的敌人有几率掉落 3 个纳米;
+
+;>H_NanoHacker<;
+;纳米黑客;
+
+;>DH_NanoHacker<;
+;受到伤害的敌人有几率掉落 5 个纳米;
+
+;>B_PickPocket<;
+;扒手;
+
+;>DB_PickPocket<;
+;有 10% 的几率在伤害敌人时损失你的金币;
+
+;>L_SleightHand<;
+;灵巧快手;
+
+;>DL_SleightHand<;
+;受到伤害的敌人有几率掉落 10 个金币;
+
+;>M_Robbery<;
+;掠夺;
+
+;>DM_Robbery<;
+;受到伤害的敌人有几率掉落 100 个金币;
+
+;>H_Heist<;
+;抢劫;
+
+;>DH_Heist<;
+;受到伤害的敌人有几率掉落 300 个金币;
+
+;>B_BrokenVamp<;
+;献祭;
+
+;>DB_BrokenVamp<;
+;攻击敌人时有 5% 的几率对自己产生伤害。;
+
+;>L_Vamp<;
+;吸血 I;
+
+;>DL_Vamp<;
+;攻击敌人时有 5% 的几率吸取生命值;
+
+;>M_VampII<;
+;吸血 II;
+
+;>DM_VampII<;
+;攻击敌人时有 10% 的几率吸取生命值;
+
+;>H_Dracula<;
+;吸血鬼德古拉;
+
+;>DH_Dracula<;
+;攻击敌人时有 15% 的几率吸取生命值;
+
+;>B_BrokenScanner<;
+;损坏的扫描仪;
+
+;>DB_BrokenScanner<;
+;啥用没有。它坏了;
+
+;>L_SurpriseScan<;
+;突击扫描;
+
+;>DL_SurpriseScan<;
+;扫描有 10% 的几率晕眩敌人。不可叠加;
+
+;>M_SonarShock<;
+;声纳冲击;
+
+;>DM_SonarShock<;
+;扫描有 25% 的几率晕眩敌人。不可叠加;
+
+;>H_ShockJammer<;
+;冲击干扰机;
+
+;>DH_ShockJammer<;
+;扫描有 50% 的几率晕眩敌人。不可叠加;
+
+;>B_Firecracker<;
+;鞭炮;
+
+;>DB_Firecracker<;
+;爆炸后产生 1 枚小型手雷。不可叠加;
+
+;>L_ClusterBomber<;
+;集束轰炸机;
+
+;>DL_ClusterBomber<;
+;爆炸后产生 3 枚小型手雷。不可叠加;
+
+;>M_CarpetBomber<;
+;地毯式轰炸机;
+
+;>DM_CarpetBomber<;
+;爆炸后产生 5 枚小型手雷。不可叠加;
+
+;>H_MeteorShower<;
+;流星雨;
+
+;>DH_MeteorShower<;
+;爆炸后产生 8 枚小型手雷。不可叠加;
+
+;>B_BrokenHealer<;
+;破碎的个人治疗器;
+
+;>DB_BrokenHealer<;
+;手雷转变为半径 1 米的治疗区域，治疗时间约 5 秒。不可叠加;
+
+;>L_MedkitMagic<;
+;医学魔术;
+
+;>DL_MedkitMagic<;
+;手雷转变为半径 3 米的治疗区域，治疗时间约 10 秒。不可叠加;
+
+;>M_HealthStation<;
+;医疗站;
+
+;>DM_HealthStation<;
+;手雷转变为半径 5 米的治疗区域，治疗时间约 15 秒。不可叠加;
+
+;>H_HolySpirit<;
+;圣域;
+
+;>DH_HolySpirit<;
+;手雷转变为半径 7 米的治疗区域，治疗时间约 20 秒。不可叠加;
+
+;>B_Drunken<;
+;醉汉;
+
+;>DB_Drunken<;
+;手雷现在可以慢慢追踪敌人。不可叠加;
+
+;>L_Chaser<;
+;跟随者;
+
+;>DL_Chaser<;
+;手雷现在可以追踪敌人。不可叠加;
+
+;>M_Seeker<;
+;追寻者;
+
+;>DM_Seeker<;
+;手雷现在可以快速追踪敌人。不可叠加;
+
+;>H_Missile<;
+;导弹;
+
+;>DH_Missile<;
+;手雷现在可以更快地追踪敌人，并在接触时爆炸。不可叠加;
+
+;>B_BrokenTurret<;
+;损坏的炮塔;
+
+;>DB_BrokenTurret<;
+;手雷变成炮塔，射击包括你在内的所有人。不可叠加;
+
+;>L_Turret<;
+;炮塔;
+
+;>DL_Turret<;
+;手雷变成炮塔，射击所有敌人。不可叠加;
+
+;>M_ARTurret<;
+;AR 炮塔;
+
+;>DM_ARTurret<;
+;手雷变成炮塔，射击所有敌人。攻击频率更高。不可叠加;
+
+;>H_AATurret<;
+;AA 炮塔;
+
+;>DH_AATurret<;
+;手雷变成炮塔，射击所有敌人。自动霰弹枪规格。不可叠加;
+
+;>NPrice<;
+;出售价格：;
+
+;>DAMAGE : <;
+;伤害：;
+
+;>PIERCE : <;
+;穿透：;
+
+;>ACCRCY : <;
+;散射率：;
+
+;>MAG SIZ : <;
+;弹夹容量：;
+
+;>FIRE R : <;
+;射击间隔：;
+
+;>HANDLG : <;
+;稳定性：;
+
+;>Type<;
+;种类;
+
+;>Dmg<;
+;伤害;
+
+;>Pierce<;
+;穿透;
+
+;>Accrcy<;
+;散射率;
+
+;>Mag Siz<;
+;弹夹容量;
+
+;>Fire R<;
+;射击间隔;
+
+;>Handl<;
+;稳定性;
+
+;>Rarity<;
+;稀有度;
+
+;>Price<;
+;价格;
+
+;>Type<;
+;种类;
+
+;>Rarity<;
+;稀有度;
+
+;>Price<;
+;价格;

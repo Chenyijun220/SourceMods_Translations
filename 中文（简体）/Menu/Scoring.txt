@@ -1,0 +1,27 @@
+﻿;>SCORE<;
+;分数;
+
+;>Total Hit<;
+;总命中数;
+
+;>Kill<;
+;击杀数;
+
+;>Mission Completion<;
+;任务完成奖励;
+
+;>Bonus<;
+;额外奖励;
+
+;>TOTAL<;
+;总计;
+
+;>PLAYERS ACCUMULATE SCORE<;
+;玩家累积分数;
+
+;>WEAPON OBTAINED<;
+;获得的武器;
+
+;>NANO PLUGIN OBTAINED<;
+;获得的纳米插件;
+

@@ -1,0 +1,129 @@
+﻿;>loopplydmg<;
+;玩家伤害 x;
+
+;>loopnpchp<;
+;NPC 生命值 x;
+
+;>Start Mission?<;
+;开始任务？;
+
+;>Partner is busy~!<;
+;搭档正忙~！;
+
+;>All Players Must Nearby~!<;
+;所有玩家必须在附近~！;
+
+;>Must Has Atleast One Weapon~!<;
+;必须要有至少一件武器~！;
+
+;>Return to Base?<;
+;返回基地？;
+
+;>Partner is busy~!<;
+;搭档正忙~！;
+
+;>confirm<;
+;确认;
+
+;>CLEANUP ZONE PROGRESS<;
+;区域清理进度;
+
+;>loopplydmg<;
+;玩家伤害 x;
+
+;>loopnpchp<;
+;NPC 生命值 x;
+
+;>loopcaution<;
+;完成游戏以增加循环数！;
+
+;>ZONE<;
+;区域;
+
+;>EASY<;
+;简单;
+
+;>Cleaned Up Progress :<;
+;区域清理进度：;
+
+;>ZONE<;
+;区域;
+
+;>MEDIUM<;
+;中等;
+
+;>Cleaned Up Progress :<;
+;区域清理进度：;
+
+;>ZONE<;
+;区域;
+
+;>HARD<;
+;困难;
+
+;>Cleaned Up Progress :<;
+;区域清理进度：;
+
+;>Easy<;
+;简单线路;
+
+;>Medium<;
+;中等线路;
+
+;>Hard<;
+;困难线路;
+
+;>BossJuno<;
+;BOSS 朱诺;
+
+;>BossJena<;
+;BOSS 杰娜;
+
+;>BossesJunoJena<;
+;朱诺和杰娜;
+
+;>DestroyJammer<;
+;摧毁干扰装置;
+
+;>DisableGenerator<;
+;关闭发电机;
+
+;>NeutraliseHostiles<;
+;消灭敌人;
+
+;>SaveSisters<;
+;解救姐妹们;
+
+;>NeutraliseHVTJuno<;
+;消灭高价值目标：朱诺;
+
+;>NeutraliseHVTJena<;
+;消灭高价值目标：杰娜;
+
+;>NeutraliseJenaJuno<;
+;消灭杰娜和朱诺;
+
+;>AssistSisters<;
+;支援 / 保护姐妹们;
+
+;>DeveloperTesting<;
+;开发者测试;
+
+;>MissionCompleted<;
+;任务完成;
+
+;>MissionFailed<;
+;任务失败;
+
+;>generator<;
+;关闭发电机;
+
+;>ShutDown<;
+;正在关闭..;
+
+;>unlock<;
+;解锁;
+
+;>Unlock Door<;
+;正在解锁...;
+

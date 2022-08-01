@@ -1,0 +1,12 @@
+﻿;>Connect<;
+;连接;
+
+;>Connecting..<;
+;正在连接..;
+
+;>Disconnect<;
+;断开连接;
+
+;>Disconnecting<;
+;正在断开连接;
+

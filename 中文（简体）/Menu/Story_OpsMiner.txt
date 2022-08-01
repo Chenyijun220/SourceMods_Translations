@@ -1,0 +1,29 @@
+﻿;>OpsMiner_StoryBefore_Page_0<;
+;“啊！ 我差点忘了！ 我们从另一个地区的侦察小队那里得到了新信息...”;
+
+;>OpsMiner_StoryBefore_Page_1<;
+;“我们的侦察小队带来的情报显示， 兰尼部队正在这下面大肆的开采矿物。”
+
+“似乎他们的目标主要是给他们的某种自动装置提供燃料。 我猜是为了他们新的机器人生产线”;
+
+;>OpsMiner_StoryBefore_Page_2<;
+;“你的任务是终止他们的采矿作业并清理该地区。 那里可能有通往他们的机器工厂的路线”;
+
+;>OpsMiner_StoryBefore_Page_3<;
+;“祝你好运~！”;
+
+;>OpsMiner_StoryAfter_Page_0<;
+;“你在那儿干得很出色！”;
+
+;>OpsMiner_StoryAfter_Page_1<;
+;“当你在和那些暴徒打交道时， 我们成功找到了一条通往他们机器工厂大门的路线...”;
+
+;>OpsMiner_StoryAfter_Page_2<;
+;“不幸的是， 我们不能再往前推进了， 因为大门有他们的自动机械人把守… 我们没有能摧毁它们的能力或火力…”;
+
+;>OpsMiner_StoryAfter_Page_3<;
+;“但这是一次机会！ 如果我们能够摧毁它们， 我们就有可能进入并彻底摧毁他们的机器生产线。 以防后患！”;
+
+;>OpsMiner_StoryAfter_Page_4<;
+;“再次祝你好运~！”;
+
